@@ -1,0 +1,6 @@
+{
+  "name": "CeylonBite",
+  "description": "High-performance restaurant POS & customer ordering system for Sri Lanka, featuring trilingual support and AI-powered food menu image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
